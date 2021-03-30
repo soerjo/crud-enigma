@@ -1,0 +1,15 @@
+.errorMessage {
+  color: red;
+  font-size: 0.5em;
+  display: relative;
+}
+
+.error {
+  border: 1px solid red;
+}
+
+.cardContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
